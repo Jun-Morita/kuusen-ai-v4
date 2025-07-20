@@ -1,3 +1,13 @@
+# .gitignore for Python projects
+.venv/
+__pycache__/
+*.pyc
+*.log
+*.ipynb_checkpoints
+*.zip
+*.whl
+simulator_dist/dist/linux/__pycache__/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
