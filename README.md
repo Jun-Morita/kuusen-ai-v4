@@ -1,5 +1,8 @@
-# kuusen-ai-v4
+# kuusen-ai-v4 / 第４回 空戦AIチャレンジ
+
 AI agent developed for the 4th Air Combat AI Challenge (SIGNATE, 2025), hosted by Japan’s ATLA. This project builds a fighter aircraft control system using a 3D simulation environment. The goal is to protect an escort plane while defeating enemy forces. Compatible with Linux (WSL/Docker). Includes rule-based and RL-based agent design.
+
+[コンペページ](https://user.competition.signate.jp/ja/competition/detail/?competition=de1556abda294254b30bdec61520f764)
 
 
 ## License
