@@ -6,7 +6,10 @@ __pycache__/
 *.ipynb_checkpoints
 *.zip
 *.whl
+*.Identifier
 simulator_dist/dist/linux/__pycache__/
+simulator_dist/results/
+simulator_dist/simulator/sample/scripts/R7Contest/MinimumEvaluation/result
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
